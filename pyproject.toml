@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "asp-chef-selinux"
+version = "0.1.0"
+description = ""
+authors = ["pit0500 <pietro.macri2000@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11,<4.0"
+dumbo-asp = "^0.3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
