@@ -55,3 +55,7 @@ sudo sesearch -A > policy.txt
 ## Final Notes
 
 We recommend using Firefox as the default browser for the project. If you want to use a different browser please be aware that the url length could exceed the maximum length supported by some browsers.
+
+## Learn More
+
+If you don't know how to use [asp chef with LLMs](https://asp-chef.alviano.net/s/LLMs) you can visit the official website clicking on the link. We encourage you to read the documentation to understand how to use the tool, there are a lot of tutorials and examples that can help you to get started.
