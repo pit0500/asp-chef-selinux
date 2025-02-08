@@ -49,7 +49,7 @@ If you want to use a different file as input, you can change the `input_file` va
 The file was populated via the following command on a SELinux-enabled system:
 
 ```bash
-sudo seinfo -a > file.txt
+sudo sesearch -A > policy.txt
 ```
 
 ## Final Notes
